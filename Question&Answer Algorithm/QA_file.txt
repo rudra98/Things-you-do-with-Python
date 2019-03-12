@@ -1,0 +1,5 @@
+Hi:Hey there
+Whats up:Everything is just fine in your machine atleast
+Hey:Hi there
+Whats your name:What do you want to call me?
+What is the room temperature:I cant feel anything
